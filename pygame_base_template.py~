@@ -1,0 +1,6 @@
+
+# Pygame base template for opening a window
+
+import pygame
+
+print ("It worked.")
